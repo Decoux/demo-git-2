@@ -1,7 +1,7 @@
 # Demo d'un projet Git
 
 ## Présentation : 
-Ce projet est géré par git.
+Ce projet est géré par Git.
 
 ## Commandes : 
 * pour initialiser git dans un dossier : 
